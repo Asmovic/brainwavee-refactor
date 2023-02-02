@@ -2447,9 +2447,9 @@ body,
 
 .overview-area .overview-items .item .thumb,
 .overview-area .overview-items .item .info {
-    display: table-cell;
+    /* display: table-cell;
     float: none;
-    vertical-align: middle;
+    vertical-align: middle; */
 }
 
 .overview-area .overview-items .item .thumb {
